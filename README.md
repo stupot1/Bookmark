@@ -14,6 +14,10 @@ I want to see a list of my saved bookmarks
 
 ![MVC Diagram 1](images/mvc_diagram.png?raw=true "MVC Diagram")
 
+## Class Diagram
+
+![Class Diagram 1](images/bookmark_class.png?raw=true "Bookmark Class Diagram")
+
 ## Notes
 
 Saved list of bookmarks (database)
