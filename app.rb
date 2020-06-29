@@ -1,11 +1,15 @@
 require 'sinatra/base'
 
-class Bookmark < Sinatra::Base
+class BookmarkManager < Sinatra::Base
 
   enable :sessions
 
   get '/' do
     erb:index
+  end
+
+  get '/bookmarks' do
+    erb:bookmarks
   end
 
 end
